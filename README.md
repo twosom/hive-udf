@@ -1,4 +1,4 @@
-# The Name of Your Project
+# My Hive UDFs
 
 ## Description
 
