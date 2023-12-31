@@ -18,6 +18,7 @@ The repository includes the following UDFs:
 
 - ifnull
 - countif
+- strpos
 
 ## Usage
 
