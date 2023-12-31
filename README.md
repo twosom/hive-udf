@@ -17,6 +17,7 @@ This project is developed and tested under the following environment:
 The repository includes the following UDFs:
 
 - ifnull
+- countif
 
 ## Usage
 
